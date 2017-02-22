@@ -1,0 +1,56 @@
+.yarpp-thumbnails-horizontal .yarpp-thumbnail-title {
+    max-height: 7em;
+}
+
+.yarpp-thumbnails-horizontal .yarpp-thumbnail {
+    height: 250px !important;
+    margin: 5px 15px 5px 0px !important;
+}
+
+.cresta-share-icon.fourth_style .cresta-the-count {
+left: 45px;
+top: 8px;
+}
+
+.gsc-input-box {
+    height: 30px !important;
+}
+
+input.gsc-input {
+    font-size: 20px !important;
+}
+
+.cse .gsc-control-cse, .gsc-control-cse {
+    padding: 0.1em !important;
+}
+
+.sidebar .widget {
+    padding-bottom: 1rem;
+}
+
+input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus {
+background-image: inherit !important;
+box-sizing: content-box !important;
+}
+
+.epik-darkblue .head-wrap a, .epik-darkblue .welcome a, .epik-darkblue .home-feature-bg-dark a, .epik-darkblue .author-box a, .epik-darkblue .footer-widgets a {
+    text-transform: uppercase;
+}
+
+.title-area {
+    width: 220px !important;
+}
+
+.header-image .site-header .widget-area {
+    min-width:200px;
+    max-width:730px;
+    width:100%;
+    min-height:60px;
+    max-height:90px;
+    padding: 0rem 0rem !important;
+    margin-bottom:10px;
+	}
+
+.site-header {
+    margin-top: 10px !important;
+}
